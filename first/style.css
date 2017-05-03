@@ -1,0 +1,25 @@
+body {
+	margin: 0;
+	background-color: #d8d8d8;
+}
+
+.top {
+	background-color: #464646;
+	height: 20vh;
+	width: 100%;
+}
+
+.main {
+	margin: 0 auto;
+	background-color: #efefef;
+	width: 80%;
+	height: 70vh;
+}
+
+.bottom {
+	width: 80%;
+	height: 10vh;
+	background-color: #464646;
+	margin: 0 auto;
+}
+
